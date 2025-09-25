@@ -4,6 +4,8 @@ description: This resource contains the infromation about citibank in this cours
 file: /courses/15-963-management-accounting-and-control-spring-2007/4e70a1503bb840a437707a1fc87307e7_lec17.pdf
 file_size: 122664
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

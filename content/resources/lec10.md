@@ -6,6 +6,8 @@ description: This resource contains the information about Why does the pricing m
 file: /courses/15-963-management-accounting-and-control-spring-2007/a8a75aca244be2b69b8093ef5d191feb_lec10.pdf
 file_size: 160821
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

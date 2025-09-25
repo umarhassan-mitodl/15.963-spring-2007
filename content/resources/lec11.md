@@ -5,6 +5,8 @@ description: This resource contains the information about What is the competitiv
 file: /courses/15-963-management-accounting-and-control-spring-2007/538145d46e14793c2313e3fb70f1c685_lec11.pdf
 file_size: 138394
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

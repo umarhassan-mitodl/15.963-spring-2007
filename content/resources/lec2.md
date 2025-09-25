@@ -5,6 +5,8 @@ description: This resource contains the information about cost terminology in th
 file: /courses/15-963-management-accounting-and-control-spring-2007/c0e4e8a92624f3eff86232c0b2df69cf_lec2.pdf
 file_size: 200512
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
