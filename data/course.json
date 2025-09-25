@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "legacy_uid": "e925204e-b407-310e-41dc-3908828b5f08",
+  "instructors": {
+    "content": [
+      "a91b3579-82fd-0568-dd99-b999d5731694"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5b3f2e4b-019f-266f-dab8-66af492f409f",
+    "website": "15-963-management-accounting-and-control-spring-2007"
+  },
+  "course_title": "Management Accounting and Control",
+  "course_description": "This course is an introduction to the use of accounting information by managers for decision making, performance evaluation and control. The course should be useful for those who intend to work as management consultants, for LFM (Leaders for Manufacturing) students, and in general, for those who will become senior managers.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.963",
+  "course_image_thumbnail": {
+    "content": "f3faea5a-bc3f-b228-6388-48a0ea8b5b43",
+    "website": "15-963-management-accounting-and-control-spring-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "8d856c97-d992-4508-9354-02abe5c8080c",
+  "site_short_id": "15.963-spring-2007",
+  "site_url_path": "courses/15-963-management-accounting-and-control-spring-2007",
+  "title": "Course Metadata"
+}
