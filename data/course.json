@@ -30,6 +30,7 @@
     "website": "15-963-management-accounting-and-control-spring-2007"
   },
   "course_title": "Management Accounting and Control",
+  "hide_download": true,
   "course_description": "This course is an introduction to the use of accounting information by managers for decision making, performance evaluation and control. The course should be useful for those who intend to work as management consultants, for LFM (Leaders for Manufacturing) students, and in general, for those who will become senior managers.\n",
   "department_numbers": [
     "15"
@@ -40,6 +41,7 @@
     "content": "f3faea5a-bc3f-b228-6388-48a0ea8b5b43",
     "website": "15-963-management-accounting-and-control-spring-2007"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Presentation Assignments",

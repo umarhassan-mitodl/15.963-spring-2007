@@ -5,6 +5,8 @@ description: This resource contains the information about product costing in thi
 file: /courses/15-963-management-accounting-and-control-spring-2007/1ee7ce7d8d25d6622cc7957bfc33fe32_lec6.pdf
 file_size: 216850
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

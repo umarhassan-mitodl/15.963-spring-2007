@@ -5,6 +5,8 @@ description: This resource contains the information about organizational archite
 file: /courses/15-963-management-accounting-and-control-spring-2007/c8907feac0954a70e39a0d274b27805e_lec15.pdf
 file_size: 138302
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains the information about required textbook, recommended
   citation and the fine print in this course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

@@ -5,6 +5,8 @@ description: This resource contains the information about managerial accounting 
 file: /courses/15-963-management-accounting-and-control-spring-2007/c97d4373f4e9f484ea32001aba5e9414_lec1.pdf
 file_size: 148420
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

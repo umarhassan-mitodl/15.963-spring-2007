@@ -5,6 +5,8 @@ description: This resource contains the information about cost structure and com
 file: /courses/15-963-management-accounting-and-control-spring-2007/eb7db9ee4af99a5f9c54d4b2c42a8886_lec3.pdf
 file_size: 201977
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
